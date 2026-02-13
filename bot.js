@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 // ----- KENDİ BİLGİLERİNLE DOLDUR -----
-const SERVER_ADDRESS = 'supra1111.aternos.me';
+const SERVER_ADDRESS = 'muttalipcan3162.aternos.me';
 const SERVER_PORT = 25565;
 const BOT_USERNAME = 'AFKBot';
 const MINECRAFT_VERSION = '1.21.1';  // 1.21.11 için 1.21.1 kullan (uyumlu)
