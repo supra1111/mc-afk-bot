@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 // ----- KENDİ BİLGİLERİNLE DOLDUR -----
-const SERVER_ADDRESS = 'muttalipcan3162.aternos.me'; // Aternos sunucu adresin
+const SERVER_ADDRESS = 'supra1111.aternos.me'; // Aternos sunucu adresin
 const SERVER_PORT = 25565;                       // Genelde 25565'tir
 const BOT_USERNAME = 'AFKBot';                    // Bot ismi
 // GELİŞMİŞ AYARLAR (İsteğe bağlı değiştir)
