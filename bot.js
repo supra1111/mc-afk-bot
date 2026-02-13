@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 // ----- BURAYI DOLDUR (DynIP kullan) -----
 // Örnek: '123456.aternos.host' veya 'muttalipcan3162.aternos.me'
 const SERVER_ADDRESS = 'muttalipcan3162.aternos.me:25553';  // DynIP ile değiştir
-const SERVER_PORT = 25565;  // DynIP'te farklı port varsa onu yaz
+const SERVER_PORT = 25553;  // DynIP'te farklı port varsa onu yaz
 const BOT_USERNAME = 'AFKBot' + Math.floor(Math.random() * 1000);  // Rastgele isim
 const MINECRAFT_VERSION = '1.21.1';
 // -----------------------------------------
